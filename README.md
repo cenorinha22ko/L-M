@@ -15,3 +15,19 @@ Projeto Integrador(PI) do curso técnico de desenvolvimento de sistemas
 - Arthur
 - Caynã
 - Ryan
+---
+## Banco de Dados
+- Luis
+- Pedro
+- Arthur
+
+## Documentação 
+- Luis
+- Ryan
+- Caynã
+- Antenor
+
+## Apresentação/Power Point
+- Antenor
+- Pedro
+- Levy
