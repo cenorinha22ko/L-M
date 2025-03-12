@@ -24,7 +24,7 @@ Projeto Integrador(PI) do curso técnico de desenvolvimento de sistemas
 ## Documentação 
 - Luis
 - Ryan
-- Caynã
+- Levy
 - Antenor
 
 ## Apresentação/Power Point
