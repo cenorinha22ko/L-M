@@ -38,10 +38,4 @@ CREATE TABLE `livros`(
     `nome_arquivo` VARCHAR(100) NOT NULL -- Nome do arquivo armazenado para acesso online
 );
 
-CREATE TABLE `leitura`(
-	`id_leitura` INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
-    `id_assinante` INT NOT NULL,
-    `id_livro` INT NOT NULL,
-    FOREIGN KEY (`id_assinante`) REFERENCES `assinante`(`id_assinante`),
-    FOREIGN KEY (`id_livro`) REFERENCES `livros`(`id_livro`)
-);
+
