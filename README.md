@@ -19,7 +19,7 @@ Projeto Integrador(PI) do curso técnico de desenvolvimento de sistemas
 ## Android
 - Arthur
 - Caynã
-- Ryan
+- Levy
 ---
 ## Banco de Dados
 - Luis
@@ -31,7 +31,6 @@ Projeto Integrador(PI) do curso técnico de desenvolvimento de sistemas
 - Ryan
 - Caynã
 - Levy
-- Antenor
 
 ## Apresentação/Power Point
 - Antenor
